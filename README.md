@@ -5,8 +5,8 @@ Churn rate (sometimes called attrition rate), in its broadest sense, is a measur
 I try to answer the following questions:
 
 1) What percentage of users have churned in the data provided?
-2) Build a classifier using "training data" that given a user with their features assigns a churn probability for every user and predicts which users will churn. 3)
-3) How well does your classifier perform on the "test data"? Your metric is accuracy.
+2) How to build a classifier using "training data" that given a user with their features assigns a churn probability for every user and predicts which users will churn?
+3) How well does your classifier perform on the "test data"? What metrics are relevant?
 4) Based on the classifier (model you built) classify each user in the dataset as churned or not churned.
 
 Datasets: features_data,
